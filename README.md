@@ -5,7 +5,7 @@
 
 <!-- [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
  -->
-## I'm a Competitive Programmer, Web Developer & Hybrid App Developer!!
+## I'm a Competitive Programmer, Web Developer & Native App Developer!!
 
 - 🔭 I just launched my first App: [app]!
 - 🥅 2021 Goals: Go to the depth of DSA and Flutter
@@ -25,7 +25,10 @@
 <br />
 
 ### Competitive Programming Profiles:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][]
+[<img align="left" alt="adi_7861" width="22px" src="https://www.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />][codechef]
+[<img align="left" alt="adi_7861" width="22px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/w1200-h630-p-k-no-nu/codeforces.png" />][codeforces]
+[<img align="left" alt="adi_7861" width="22px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/w1200-h630-p-k-no-nu/codeforces.png" />][hackerrank]
+[<img align="left" alt="adi_7861" width="22px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/w1200-h630-p-k-no-nu/codeforces.png" />][stopstalk]
 
 ### Languages and Tools:
 
@@ -42,11 +45,7 @@
 
 </details>
 
-[website]:https://www.linkedin.com/in/aditya7861/
-[course]: https://www.linkedin.com/in/aditya7861/
-[twitter]: https://www.linkedin.com/in/aditya7861/
-[youtube]: https://www.linkedin.com/in/aditya7861/
-[instagram]: https://www.linkedin.com/in/aditya7861/
-[linkedin]: https://www.linkedin.com/in/aditya7861/
-[facebook]:https://www.linkedin.com/in/aditya7861/
-[app]: https://www.amazon.com/dp/B08SWTWY1H/ref=apps_sf_sta
+[codechef]: https://www.codechef.com/users/adi_7861
+[codeforces]: https://codeforces.com/profile/Adi_7861
+[hackerrank]: https://codeforces.com/profile/Adi_7861
+[stopstalk]: https://www.stopstalk.com/user/profile/adi_7861
