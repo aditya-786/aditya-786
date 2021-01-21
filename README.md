@@ -11,9 +11,9 @@
 - 🥅 2021 Goals: Go to the depth of DSA and Flutter
 - ⚡ Interests: I love to play chess 
 
-### Wynk Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://img.wynk.in/unsafe/275x275/filters:no_upscale():format(webp)/http://s3-ap-south-1.amazonaws.com/wynk-music-cms/srch_universalmusic/music/1485874711/srch_universalmusic_00602557443325-USUM71700626.jpg" alt="codeSTACKr Spotify Playing" width="350" />](https://wynk.in/music/song/believer/um_00602557443325-USUM71700626)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aditya Aggarwal Spotify Playing" width="350" />](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T?si=aAS-UwiCSxi_GBwBpbtZwQ)
 
 ### Connect with me:
 
