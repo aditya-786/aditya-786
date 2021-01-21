@@ -11,11 +11,6 @@
 - 🥅 2021 Goals: Go to the depth of DSA and Flutter
 - ⚡ Interests: I love to play chess 
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-aditya-786.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-
-
 
 ### Connect with me:
 
