@@ -5,7 +5,7 @@
 
 <!-- [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
  -->
-## I'm a Competitive Programmer, Web Developer & Native App Developer!!
+## I'm a Competitive Programmer, Web Developer & Hybrid App Developer!!
 
 - 🔭 I just launched my first App: [app]!
 - 🥅 2021 Goals: Go to the depth of DSA and Flutter
@@ -17,11 +17,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="adi_7861" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="adi_7861 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="adi_7861 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="adi_7861 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="adi_7861 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
+[![Instagram Connect](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_adi.786/)
+[![Facebook Connect](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adi7861)
+[![Twitter Connect](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/adi_7861)
 <br />
 
 ### Competitive Programming Profiles:
