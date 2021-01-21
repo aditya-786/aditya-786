@@ -49,4 +49,4 @@
 [instagram]: https://www.linkedin.com/in/aditya7861/
 [linkedin]: https://www.linkedin.com/in/aditya7861/
 [facebook]:https://www.linkedin.com/in/aditya7861/
-[app]:
+[app]: https://www.amazon.com/dp/B08SWTWY1H/ref=apps_sf_sta
