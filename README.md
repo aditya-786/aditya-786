@@ -30,9 +30,6 @@
 [<img align="left" alt="adi_7861" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][hackerrank]
 [<img align="left" alt="adi_7861" width="22px" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" />][stopstalk]
 
-<br/>
-<br/>
-
 ### Languages and Tools:
 
 
@@ -52,3 +49,4 @@
 [codeforces]: https://codeforces.com/profile/Adi_7861
 [hackerrank]: https://codeforces.com/profile/Adi_7861
 [stopstalk]: https://www.stopstalk.com/user/profile/adi_7861
+[app]: https://www.amazon.com/dp/B08SWTWY1H/ref=apps_sf_sta
