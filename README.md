@@ -1,7 +1,9 @@
 ### Hi there, I'm Aditya Aggarwal 👋
 
-[![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
+![](https://komarev.com/ghpvc/?username=aditya-786&color=red)
 
+<!-- [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
+ -->
 ## I'm a Competitive Programmer, Web Developer & Native App Developer!!
 
 - 🔭 I just launched my first App: [app]!
@@ -46,3 +48,4 @@
 [instagram]: https://www.linkedin.com/in/aditya7861/
 [linkedin]: https://www.linkedin.com/in/aditya7861/
 [facebook]:https://www.linkedin.com/in/aditya7861/
+[app]:
