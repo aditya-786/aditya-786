@@ -12,8 +12,10 @@
 - ⚡ Interests: I love to play chess 
 
 ### Spotify Playing 🎧
+[![Spotify](https://aditya-786.vercel.app/api/spotify)](https://open.spotify.com/user/aditya-786)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Aditya Aggarwal Spotify Playing" width="350" />](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T?si=aAS-UwiCSxi_GBwBpbtZwQ)
+
+
 
 ### Connect with me:
 
