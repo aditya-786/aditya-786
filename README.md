@@ -1,6 +1,7 @@
-### Hi there, I'm Aditya Aggarwal 👋
+### Hi there, I'm Aditya Aggarwal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=aditya-786&color=red)
+
+![](https://komarev.com/ghpvc/?username=aditya-786&color=blue)
 
 <!-- [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
  -->
