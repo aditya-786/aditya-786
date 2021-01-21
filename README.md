@@ -12,8 +12,7 @@
 - ⚡ Interests: I love to play chess 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-two-rho.vercel.app
-" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/drhsro7xjqijhgk2ayyy9yf36)
+[<img src="https://novatorem.aditya-786.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/drhsro7xjqijhgk2ayyy9yf36)
 
 
 
