@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya Aggarwal 👋
 
-[![Linkedin Connect](https://www.linkedin.com/in/aditya7861/)
+[![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
 
 ## I'm a Competitive Programmer, Web Developer & Native App Developer!!
 
