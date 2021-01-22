@@ -6,7 +6,7 @@
 <!-- [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
  -->
 
-## I'm a Competitive Programmer, Web Developer & Native App Developer :india: !!
+## I'm a Competitive Programmer, Web Developer & Native App Developer 🇮🇳 !!
 
 - 🔭 I just launched my first App: [app]!
 - 🥅 2021 Goals: Go to the depth of DSA and Flutter
