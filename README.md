@@ -12,7 +12,6 @@
 - ⚡ Interests: I love to play chess 
 
 
-
 ### Connect with me:
 
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
@@ -34,7 +33,7 @@
 
 
 
-<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://drive.google.com/file/d/1AX81j6Z9PDVdXFxgeD3k4G_Pq-3MeH1-/view?usp=sharing' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>    <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src = 'https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png' width='45'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
  
 
 
@@ -46,8 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Aditya Aggarwal GitHub Stats" src="https://github-readme-stats-gamma-blond.vercel.app
-/api?username=aditya-786&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aditya Aggarwal GitHub Stats" src="https://github-readme-stats.aditya-786.vercel.app/api?username=aditya-786&show_icons=true&hide_border=true" />
 
 </details>
 
