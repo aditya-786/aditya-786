@@ -23,7 +23,7 @@
 
 ### Competitive Programming Profiles:
 [<img align="left" alt="adi_7861" width="45px" target="_blank" src="https://www.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />][codechef]
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="left" alt="adi_7861" style="margin-top:20px" width="45px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/w1200-h630-p-k-no-nu/codeforces.png" />][codeforces]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img align="left" alt="adi_7861" height="45px" width="45px" src="https://4.bp.blogspot.com/-XDhgx0rKXZs/XIFWwjkQFSI/AAAAAAAAE80/BZomz5pCmF0FyiqEXqFBcYWOx98noEB_wCPcBGAYYCw/w1200-h630-p-k-no-nu/codeforces.png" />][codeforces]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="adi_7861" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][hackerrank]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="adi_7861" width="45px" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" />][stopstalk]
 
