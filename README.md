@@ -5,13 +5,16 @@
 
 <!-- [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
  -->
+ <br/>
+ <br/>
 ## I'm a Competitive Programmer, Web Developer & Native App Developer!!
 
 - 🔭 I just launched my first App: [app]!
 - 🥅 2021 Goals: Go to the depth of DSA and Flutter
 - ⚡ Interests: I love to play chess 
 
-
+<br/>
+<br/>
 ### Connect with me:
 
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya7861/)
@@ -20,6 +23,7 @@
 [![Twitter Connect](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/adi_7861)
 <br />
+<br/>
 
 ### Competitive Programming Profiles:
 [<img align="left" alt="adi_7861" width="22px" src="https://www.codechef.com/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" />][codechef]
