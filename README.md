@@ -8,7 +8,7 @@ network over **10M+ data points**, an e-commerce platform serving **1M+ users**,
 These days a lot of my time goes into finding and fixing subtle correctness bugs in large
 open-source AI systems — agent frameworks, inference engines, eval harnesses, and vector/data infrastructure.
 
-🔭 **SDE2 @ Uni Cards** (fintech) &nbsp;·&nbsp; 📍 Bengaluru, India &nbsp;·&nbsp; 💬 Ask me about Go, distributed systems & LLM tooling internals
+🔭 **SDE2 @ Uni Cards** (fintech) &nbsp;·&nbsp; 📍 Bengaluru, India &nbsp;·&nbsp; 💬 Ask me about backend architecture, distributed systems & databases
 
 ![Profile views](https://komarev.com/ghpvc/?username=aditya-786&style=flat-square&color=0a7e8c&label=Profile+views)
 
@@ -34,11 +34,11 @@ Self-found, regression-tested fixes across the AI stack — every PR ships with 
 
 ## 🛠️ Tech
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
@@ -47,7 +47,7 @@ Self-found, regression-tested fixes across the AI stack — every PR ships with 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-- **Languages** — Go · Java · Python · TypeScript · C++ · SQL
+- **Languages** — Java · Python · C++ · SQL · Go
 - **Backend & Distributed Systems** — Spring Boot · Microservices · Temporal · Kubernetes · Docker · AWS · Kafka · PostgreSQL · MongoDB · ScyllaDB · DynamoDB · Redis
 - **AI / LLM** — LLM agents & tool-calling · MCP · inference & serving internals · eval / grading harnesses
 
