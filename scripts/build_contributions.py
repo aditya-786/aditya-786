@@ -2,6 +2,7 @@
 import json
 import re
 import subprocess
+from collections import Counter
 from pathlib import Path
 
 AUTHOR = "aditya-786"
@@ -94,7 +95,16 @@ def main():
                 }
             )
 
-    entries.sort(key=lambda e: (ORDER[e["state"]], -e["stars"], e["repo"]))
+    per_repo = Counter(e["repo"] for e in entries)
+    entries.sort(
+        key=lambda e: (
+            -per_repo[e["repo"]],
+            -e["stars"],
+            e["repo"],
+            ORDER[e["state"]],
+            -e["number"],
+        )
+    )
 
     merged = sum(1 for e in entries if e["state"] == "merged")
     open_n = sum(1 for e in entries if e["state"] == "open")
