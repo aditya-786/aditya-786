@@ -25,8 +25,8 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 ## 🤖 Open-source contributions to AI projects
 
 <!-- CONTRIB:START -->
-> **8 merged · 14 in review** across **12 open-source projects** totalling **453.6k★**  
-> _Every PR is self-found and ships with a fail-before / pass-after test. Status badges below are live._
+> **8 merged · 1 approved · 14 in review** across **12 open-source projects** totalling **453.7k★**  
+> _Every PR is self-found and ships with a fail-before / pass-after test. Status reflects live GitHub state._
 
 | Project | Contribution | Stars | Status |
 |:--|:--|:--:|:--:|
@@ -50,7 +50,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 | **[onyx](https://github.com/onyx-dot-app/onyx)** ·&nbsp;`Python` | [Dedupe documents by id within an indexing batch](https://github.com/onyx-dot-app/onyx/pull/12555) | ![](https://img.shields.io/github/stars/onyx-dot-app/onyx?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/onyx-dot-app/onyx/12555?style=flat-square&label=) |
 | **[deepeval](https://github.com/confident-ai/deepeval)** ·&nbsp;`Python` | [Add batch evaluation support to the GSM8K benchmark](https://github.com/confident-ai/deepeval/pull/2839) | ![](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/confident-ai/deepeval/2839?style=flat-square&label=) |
 | **[ogx](https://github.com/ogx-ai/ogx)** ·&nbsp;`Python` | [Break ties on the cursor key in cursor pagination](https://github.com/ogx-ai/ogx/pull/6199) | ![](https://img.shields.io/github/stars/ogx-ai/ogx?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/ogx-ai/ogx/6199?style=flat-square&label=) |
-| **[go-sdk](https://github.com/modelcontextprotocol/go-sdk)** ·&nbsp;`Go` | [Retry transient errors on SSE reconnect](https://github.com/modelcontextprotocol/go-sdk/pull/1027) | ![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/modelcontextprotocol/go-sdk/1027?style=flat-square&label=) |
+| **[go-sdk](https://github.com/modelcontextprotocol/go-sdk)** ·&nbsp;`Go` | [Retry transient errors on SSE reconnect](https://github.com/modelcontextprotocol/go-sdk/pull/1027) | ![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/badge/approved-1f6feb?style=flat-square) |
 | **[java-sdk](https://github.com/modelcontextprotocol/java-sdk)** ·&nbsp;`Java` | [Serialize ElicitRequest mode discriminator only once](https://github.com/modelcontextprotocol/java-sdk/pull/1045) | ![](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/modelcontextprotocol/java-sdk/1045?style=flat-square&label=) |
 <!-- CONTRIB:END -->
 
@@ -82,8 +82,10 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 
 ## 🏆 Competitive Programming
 
-- **Codeforces — Candidate Master** · [Adi_7861](https://codeforces.com/profile/Adi_7861)
-- **CodeChef — 5★** · [adi_7861](https://www.codechef.com/users/adi_7861) — Global Rank 45, Div-1 Long Challenge
+<!-- CP:START -->
+- **Codeforces — Candidate Master** · [Adi_7861](https://codeforces.com/profile/Adi_7861) &nbsp; ![](https://img.shields.io/badge/Problems%20Solved-900-1c8ac8?style=flat-square&logo=codeforces&logoColor=white)
+- **CodeChef — 5★** · [adi_7861](https://www.codechef.com/users/adi_7861) — Global Rank 45, Div-1 Long Challenge &nbsp; ![](https://img.shields.io/badge/Problems%20Solved-353-5B4638?style=flat-square&logo=codechef&logoColor=white)
+<!-- CP:END -->
 - **TCS CodeVita** — Global Rank 283 / 10,000+
 
 ---
