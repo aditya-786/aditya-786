@@ -25,7 +25,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 ## 🤖 Open-source contributions to AI projects
 
 <!-- CONTRIB:START -->
-> **8 merged · 1 approved · 14 in review** across **12 open-source projects** totalling **453.7k★**  
+> **8 merged · 1 approved · 15 in review** across **12 open-source projects** totalling **453.7k★**  
 > _Every PR is self-found and ships with a fail-before / pass-after test. Status reflects live GitHub state._
 
 | Project | Contribution | Stars | Status |
@@ -35,6 +35,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Support secure TLS connection to the hubble relay](https://github.com/keephq/keep/pull/6606) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6606?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Add option to disable temperature in AI requests](https://github.com/keephq/keep/pull/6605) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6605?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Compare percentage thresholds numerically](https://github.com/keephq/keep/pull/6603) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6603?style=flat-square&label=) |
+| **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Lock an incident after a configurable max window](https://github.com/keephq/keep/pull/6621) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6621?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Time-based alert retention policy](https://github.com/keephq/keep/pull/6616) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6616?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Add maintenance window lifecycle workflow triggers](https://github.com/keephq/keep/pull/6615) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6615?style=flat-square&label=) |
 | **[ollama](https://github.com/ollama/ollama)** ·&nbsp;`Go` | [Ignore braces inside JSON strings when detecting tool call end](https://github.com/ollama/ollama/pull/16937) | ![](https://img.shields.io/github/stars/ollama/ollama?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/ollama/ollama/16937?style=flat-square&label=) |
