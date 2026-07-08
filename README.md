@@ -25,7 +25,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 ## 🤖 Open-source contributions to AI projects
 
 <!-- CONTRIB:START -->
-> **8 merged · 1 approved · 15 in review** across **12 open-source projects** totalling **454.1k★**  
+> **8 merged · 1 approved · 15 in review** across **12 open-source projects** totalling **454.2k★**  
 > _Every PR is self-found and ships with a fail-before / pass-after test. Status reflects live GitHub state._
 
 | Project | Contribution | Stars | Status |
