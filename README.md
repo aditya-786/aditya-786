@@ -20,6 +20,8 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 
 🔭 **SDE2 @ Uni Cards** (fintech) &nbsp;·&nbsp; 📍 Bengaluru, India &nbsp;·&nbsp; 💬 Ask me about backend architecture, distributed systems & databases
 
+> 🔒 **Company work lives on a private GitHub Enterprise sync account** ([@adityaaggarwal7861](https://github.com/adityaaggarwal7861)) — day-job commits (fraud-detection, ScyllaDB migration, e-commerce backend at Uni Cards) are hosted there under NDA and do not appear on this public graph. The open-source contributions below reflect my public GitHub activity.
+
 ---
 
 ## 🤖 Open-source contributions to AI projects
