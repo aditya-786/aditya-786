@@ -27,7 +27,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 ## 🤖 Open-source contributions to AI projects
 
 <!-- CONTRIB:START -->
-> **8 merged · 1 approved · 18 in review** across **12 open-source projects** totalling **457.3k★**  
+> **8 merged · 1 approved · 19 in review** across **12 open-source projects** totalling **457.4k★**  
 > _Every PR is self-found and ships with a fail-before / pass-after test. Status reflects live GitHub state._
 
 | Project | Contribution | Stars | Status |
@@ -37,6 +37,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Support secure TLS connection to the hubble relay](https://github.com/keephq/keep/pull/6606) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6606?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Add option to disable temperature in AI requests](https://github.com/keephq/keep/pull/6605) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6605?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Compare percentage thresholds numerically](https://github.com/keephq/keep/pull/6603) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6603?style=flat-square&label=) |
+| **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Pull DCIM topology into the service topology map](https://github.com/keephq/keep/pull/6635) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6635?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Support TLS verification and mTLS client certificates](https://github.com/keephq/keep/pull/6633) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6633?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Provision correlation rules from KEEP_CORRELATION_RULES](https://github.com/keephq/keep/pull/6632) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6632?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Lock an incident after a configurable max window](https://github.com/keephq/keep/pull/6621) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6621?style=flat-square&label=) |
