@@ -27,11 +27,12 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 ## 🤖 Open-source contributions to AI projects
 
 <!-- CONTRIB:START -->
-> **9 merged · 2 approved · 19 in review** across **12 open-source projects** totalling **461.1k★**  
+> **10 merged · 2 approved · 19 in review** across **12 open-source projects** totalling **461.3k★**  
 > _Every PR is self-found and ships with a fail-before / pass-after test. Status reflects live GitHub state._
 
 | Project | Contribution | Stars | Status |
 |:--|:--|:--:|:--:|
+| **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Avoid double-encoding alert URLs](https://github.com/keephq/keep/pull/6653) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6653?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Allow enabling TLS certificate verification](https://github.com/keephq/keep/pull/6614) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6614?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Support IAM credentials via Application Default Credentials](https://github.com/keephq/keep/pull/6610) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6610?style=flat-square&label=) |
 | **[keep](https://github.com/keephq/keep)** ·&nbsp;`Python` | [Support secure TLS connection to the hubble relay](https://github.com/keephq/keep/pull/6606) | ![](https://img.shields.io/github/stars/keephq/keep?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/keephq/keep/6606?style=flat-square&label=) |
