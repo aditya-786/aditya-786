@@ -27,7 +27,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 ## 🤖 Open-source contributions to AI projects
 
 <!-- CONTRIB:START -->
-> **10 merged · 3 approved · 18 in review** across **10 open-source projects** totalling **439.8k★**  
+> **11 merged · 3 approved · 18 in review** across **11 open-source projects** totalling **448.3k★**  
 > _Every PR is self-found and ships with a fail-before / pass-after test. Status reflects live GitHub state._
 
 | Project | Contribution | Stars | Status |
@@ -58,6 +58,7 @@ open-source AI systems — agent frameworks, inference engines, eval harnesses, 
 | **[llama_index](https://github.com/run-llama/llama_index)** ·&nbsp;`Python` | [Default MetadataFilters condition to AND when None](https://github.com/run-llama/llama_index/pull/22155) | ![](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/run-llama/llama_index/22155?style=flat-square&label=) |
 | **[khoj](https://github.com/khoj-ai/khoj)** ·&nbsp;`Python` | [Require opt-in to run operator terminal commands on the host](https://github.com/khoj-ai/khoj/pull/1358) | ![](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/khoj-ai/khoj/1358?style=flat-square&label=) |
 | **[deepeval](https://github.com/confident-ai/deepeval)** ·&nbsp;`Python` | [Add batch evaluation support to the GSM8K benchmark](https://github.com/confident-ai/deepeval/pull/2839) | ![](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/confident-ai/deepeval/2839?style=flat-square&label=) |
+| **[ogx](https://github.com/ogx-ai/ogx)** ·&nbsp;`Python` | [Break ties on the cursor key in cursor pagination](https://github.com/ogx-ai/ogx/pull/6199) | ![](https://img.shields.io/github/stars/ogx-ai/ogx?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/ogx-ai/ogx/6199?style=flat-square&label=) |
 | **[go-sdk](https://github.com/modelcontextprotocol/go-sdk)** ·&nbsp;`Go` | [Retry transient errors on SSE reconnect](https://github.com/modelcontextprotocol/go-sdk/pull/1027) | ![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/badge/approved-1f6feb?style=flat-square) |
 | **[java-sdk](https://github.com/modelcontextprotocol/java-sdk)** ·&nbsp;`Java` | [Serialize ElicitRequest mode discriminator only once](https://github.com/modelcontextprotocol/java-sdk/pull/1045) | ![](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk?style=flat-square&label=%E2%98%85&color=0a7e8c&labelColor=1c1c1c) | ![](https://img.shields.io/github/pulls/detail/state/modelcontextprotocol/java-sdk/1045?style=flat-square&label=) |
 <!-- CONTRIB:END -->
