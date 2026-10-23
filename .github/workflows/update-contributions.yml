@@ -1,6 +1,12 @@
 name: Update contributions
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/build_contributions.py
+      - tests/test_build_contributions.py
+      - .github/workflows/update-contributions.yml
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -15,12 +21,16 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Test contributions script
+        run: python -m unittest discover -s tests -v
 
       - name: Regenerate contributions table
         env:
