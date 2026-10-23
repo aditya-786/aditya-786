@@ -2,6 +2,7 @@
 import json
 import re
 import subprocess
+import time
 import urllib.request
 from collections import Counter
 from pathlib import Path
@@ -33,13 +34,52 @@ REPOS = {
 
 ORDER = {"merged": 0, "open": 1}
 UA = {"User-Agent": "Mozilla/5.0 (profile-readme)"}
+PR_QUERY = """
+query($author: String!, $endCursor: String) {
+  user(login: $author) {
+    pullRequests(first: 100, after: $endCursor) {
+      nodes {
+        number
+        title
+        url
+        state
+        reviewDecision
+        repository {
+          nameWithOwner
+          stargazerCount
+        }
+      }
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+    }
+  }
+}
+"""
 
 
 def gh_json(args):
-    out = subprocess.run(
-        ["gh"] + args, capture_output=True, text=True, check=True
-    ).stdout
-    return json.loads(out) if out.strip() else []
+    for attempt in range(3):
+        try:
+            out = subprocess.run(
+                ["gh"] + args, capture_output=True, text=True, check=True, timeout=90
+            ).stdout
+            return json.loads(out) if out.strip() else []
+        except subprocess.CalledProcessError as exc:
+            error = (exc.stderr or str(exc)).strip()
+            retryable = any(
+                message in error.lower()
+                for message in (
+                    "http 429", "rate limit", "abuse detection",
+                    "http 502", "http 503", "http 504",
+                )
+            )
+            if not retryable or attempt == 2:
+                raise RuntimeError(f"GitHub API request failed: {error}") from exc
+            delay = 60 * (attempt + 1)
+            print(f"GitHub API request failed; retrying in {delay}s: {error}", flush=True)
+            time.sleep(delay)
 
 
 def http_get(url):
@@ -48,34 +88,18 @@ def http_get(url):
         return resp.read().decode("utf-8", "replace")
 
 
-def stars(repo):
-    return gh_json(["api", f"repos/{repo}", "--jq", "{s: .stargazers_count}"])["s"]
-
-
-def prs(repo):
-    rows = gh_json(
-        [
-            "search", "prs",
-            "--author", AUTHOR,
-            "--repo", repo,
-            "--limit", "50",
-            "--json", "number,title,url,state",
-        ]
-    )
-    return [p for p in rows if p["state"] in ORDER]
-
-
-def is_approved(repo, number):
-    reviews = gh_json(
-        ["api", f"repos/{repo}/pulls/{number}/reviews",
-         "--jq", "[.[] | {u: .user.login, s: .state}]"]
-    )
-    latest = {}
-    for r in reviews:
-        if r["s"] in ("APPROVED", "CHANGES_REQUESTED", "DISMISSED"):
-            latest[r["u"]] = r["s"]
-    states = set(latest.values())
-    return "APPROVED" in states and "CHANGES_REQUESTED" not in states
+def prs():
+    rows = []
+    cursor = None
+    while True:
+        args = ["api", "graphql", "-f", f"query={PR_QUERY}", "-f", f"author={AUTHOR}"]
+        if cursor is not None:
+            args.extend(["-f", f"endCursor={cursor}"])
+        result = gh_json(args)["data"]["user"]["pullRequests"]
+        rows.extend(result["nodes"])
+        if not result["pageInfo"]["hasNextPage"]:
+            return rows
+        cursor = result["pageInfo"]["endCursor"]
 
 
 def clean_title(title):
@@ -137,23 +161,26 @@ def cc_solved(handle):
 
 
 def build_contributions(text):
-    repo_stars = {repo: stars(repo) for repo in REPOS}
+    repo_stars = {}
     entries = []
-    for repo, lang in REPOS.items():
-        for p in prs(repo):
-            approved = p["state"] == "open" and is_approved(repo, p["number"])
-            entries.append(
-                {
-                    "repo": repo,
-                    "lang": lang,
-                    "stars": repo_stars[repo],
-                    "number": p["number"],
-                    "url": p["url"],
-                    "title": clean_title(p["title"]),
-                    "state": p["state"],
-                    "approved": approved,
-                }
-            )
+    for p in prs():
+        repo = p["repository"]["nameWithOwner"]
+        state = p["state"].lower()
+        if repo not in REPOS or state not in ORDER:
+            continue
+        repo_stars[repo] = p["repository"]["stargazerCount"]
+        entries.append(
+            {
+                "repo": repo,
+                "lang": REPOS[repo],
+                "stars": repo_stars[repo],
+                "number": p["number"],
+                "url": p["url"],
+                "title": clean_title(p["title"]),
+                "state": state,
+                "approved": state == "open" and p["reviewDecision"] == "APPROVED",
+            }
+        )
 
     per_repo = Counter(e["repo"] for e in entries)
     entries.sort(
